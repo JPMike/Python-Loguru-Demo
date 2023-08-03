@@ -1,2 +1,2 @@
-loguru==0.4.1
+loguru==0.5.3
 PySocks==1.7.1
